@@ -1,2 +1,1 @@
-# cybersafe
-can be used for detecting strength of password 
+CyberSafe is a C-based application designed to evaluate the basic strength of passwords and help users improve their password security. It analyzes password length and checks for uppercase letters, lowercase letters, numbers, and special characters. Based on these criteria, the program classifies passwords as weak, medium, or strong and provides suggestions for improvement. It uses fundamental C programming concepts such as functions, strings, loops, conditional statements, and character-handling functions. The main objective of CyberSafe is to promote password security awareness and encourage users to create stronger passwords.
